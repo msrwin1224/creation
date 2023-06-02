@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body{
+	text-align: center;
+}
+	
+div#center {
+	width: 450px;
+	height: 800px;
+	text-align: left;
+	background: #AAAAAA;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+table {
+	border-collapse:collapse;
+	margin: auto;
+}
+
+table th{
+	border:1px solid #000066;
+	background:royalblue;
+}
+
+table td{
+	border:1px solid #000066;
+	background:#ffffff;
+	}
